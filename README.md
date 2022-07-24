@@ -126,9 +126,9 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 ./tools/dist_train.sh configs/FTVSR_vimeo90
 
 ## Related projects
 We also sincerely recommend some other excellent works related to us. :sparkles: 
-* [Learning Trajectory-Aware Transformer for Video Super-Resolution](https://github.com/researchmm/TTVSR)
+* [TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution](https://github.com/researchmm/TTVSR)
 * [TTSR: Learning Texture Transformer Network for Image Super-Resolution](https://github.com/researchmm/TTSR)
-* [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://github.com/researchmm/CKDN)
+* [CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://github.com/researchmm/CKDN)
 
 ## Citation
 If you find the code and pre-trained models useful for your research, please consider citing our paper. :blush:
