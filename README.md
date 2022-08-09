@@ -1,5 +1,5 @@
 # FTVSR (ECCV 2022)
-This is the official PyTorch implementation of the paper Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution.
+This is the official PyTorch implementation of the paper [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012).
 
 ## Contents
 - [Introduction](#introduction)
@@ -48,9 +48,9 @@ Some visual results on videos with different compression rates (No compression, 
 * tensorboard == 2.6.0
 
 ## Model
-Pre-trained models can be downloaded from [baidu cloud](https://pan.baidu.com/s/1ZIq6T98Iv1oGk7rC46WACg)(i42r) or Google drive.
+Pre-trained models can be downloaded from [baidu cloud](https://pan.baidu.com/s/1ZIq6T98Iv1oGk7rC46WACg)(i42r) or [Google drive](https://drive.google.com/drive/folders/1AFvJymtnphlNCnkwJPQV31v3mNowkSCQ?usp=sharing).
 * *FTVSR_REDS.pth*: trained on REDS dataset with 50% uncompressed videos and 50% compressed videos (CRF 15, 25, 35).
-* *TTVSR_Vimeo90K.pth*: trained on Vimeo-90K dataset with 50% uncompressed videos and 50% compressed videos (CRF 15, 25, 35).
+* *FTVSR_Vimeo90K.pth*: trained on Vimeo-90K dataset with 50% uncompressed videos and 50% compressed videos (CRF 15, 25, 35).
 
 
 ## Dataset
