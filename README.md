@@ -98,7 +98,7 @@ Pre-trained models can be downloaded from [baidu cloud](https://pan.baidu.com/s/
 git clone https://github.com/researchmm/FTVSR.git
 cd FTVSR
 ```
-2. Download pre-trained weights ([baidu cloud](https://pan.baidu.com/s/1ZIq6T98Iv1oGk7rC46WACg) | Google drive) under `./checkpoint`
+2. Download pre-trained weights ([baidu cloud](https://pan.baidu.com/s/1ZIq6T98Iv1oGk7rC46WACg) ｜ [Google drive](https://drive.google.com/drive/folders/1AFvJymtnphlNCnkwJPQV31v3mNowkSCQ?usp=sharing)) under `./checkpoint`
 3. Prepare testing dataset and modify "dataset_root" in `configs/FTVSR_reds4.py` and `configs/FTVSR_vimeo90k.py`
 4. Run test
 ```
