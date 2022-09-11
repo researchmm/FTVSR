@@ -128,9 +128,6 @@ class FTVSR(nn.Module):
         """
 
         n, t, c, h, w = lrs.size()
-        assert h >= 64 and w >= 64, (
-            'The height and width of inputs should be at least 64, '
-            f'but got {h} and {w}.')
 
         # check whether the input is an extended sequence
         # self.check_if_mirror_extended(lrs)
