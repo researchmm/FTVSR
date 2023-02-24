@@ -1,4 +1,7 @@
 # FTVSR (ECCV 2022)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-spatiotemporal-frequency-transformer-1/video-super-resolution-on-reds4-4x-upscaling)](https://paperswithcode.com/sota/video-super-resolution-on-reds4-4x-upscaling?p=learning-spatiotemporal-frequency-transformer-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-spatiotemporal-frequency-transformer-1/video-super-resolution-on-vid4-4x-upscaling)](https://paperswithcode.com/sota/video-super-resolution-on-vid4-4x-upscaling?p=learning-spatiotemporal-frequency-transformer-1)
+
 This is the official PyTorch implementation of the paper [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012).
 
 ## Contents
