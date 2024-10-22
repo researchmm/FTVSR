@@ -136,6 +136,16 @@ We also sincerely recommend some other excellent works related to us. :sparkles:
 ## Citation
 If you find the code and pre-trained models useful for your research, please consider citing our paper. :blush:
 ```
+@ARTICLE{10239462,
+  author={Qiu, Zhongwei and Yang, Huan and Fu, Jianlong and Liu, Daochang and Xu, Chang and Fu, Dongmei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Learning Degradation-Robust Spatiotemporal Frequency-Transformer for Video Super-Resolution}, 
+  year={2023},
+  volume={45},
+  number={12},
+  pages={14888-14904},
+  doi={10.1109/TPAMI.2023.3312166}}
+
 @InProceedings{qiu2022learning,
 author = {Qiu, Zhongwei and Yang, Huan and Fu, Jianlong and Fu, Dongmei},
 title = {Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution},
